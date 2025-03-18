@@ -6,7 +6,7 @@ services:
     container_name: library_db
     environment:
       MYSQL_ROOT_PASSWORD: pai3.1415926
-      MYSQL_DATABASE: your_database_name
+      MYSQL_DATABASE: book_book_new_new
       MYSQL_USER: root
       MYSQL_PASSWORD: a123456.
     ports:
